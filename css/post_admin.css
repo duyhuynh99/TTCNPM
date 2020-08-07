@@ -1,0 +1,46 @@
+.content{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    min-height: 450px;
+}
+
+.content_create{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding : 20px;
+    border: 1px solid #007bff;
+}
+
+.title{
+    color: #007bff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1{
+    color: #007bff;
+    text-align: center;
+}
+
+label{
+    color: #007bff;
+}
+
+#data_table{
+    border: 1px solid rgb(96, 135, 252);
+    border-radius: 5%;
+}
+
+#data_table tr th{
+    background-color: rgb(96, 135, 252);
+    color: white;
+}
+
+#data_table tr:hover{
+    background-color: rgb(121, 27, 245);
+    color: white;
+}

@@ -1,0 +1,25 @@
+.align{
+	margin: 0 15px;
+}
+.align p{
+	line-height: 24px;
+	word-spacing: 2px;
+	font-size: 17px;
+}
+.align h4{
+	margin-bottom: 5px;
+	font-size: 28px;
+	color: #ff01bd;
+}
+.align h5{
+	margin: 10px 0;
+	font-size: 24px;
+	margin-top: 15px;
+	color: #ff2c2c;
+}
+.align h6{
+	color: #8647ff;
+	margin: 8px 0;
+	font-size: 20px;
+}
+

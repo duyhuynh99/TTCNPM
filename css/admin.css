@@ -1,0 +1,29 @@
+.content{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.content .item{
+    padding-bottom: 30px;
+}
+
+.content .item h1{
+    color: rgb(7, 78, 172);
+    text-align: center;
+}
+
+.content .item a{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin: 5px 10px 5px 5px;
+    padding: 4px;
+}
+
+.content .item a:hover{
+    text-decoration: none;
+    background-color : royalblue;
+    border: 1px solid royalblue;
+    color: white;
+}

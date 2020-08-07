@@ -1,0 +1,39 @@
+#content{
+    margin-top: 30px;
+    min-height: 500px;
+}
+
+#da_nhan{
+    border-right: 1px solid rgba(0, 0, 0, 0.514);
+    padding-right: 5px;
+    margin-bottom: 20px;
+}
+
+.mess_send{
+    padding: 10px 3px 10px 3px;
+    font-weight: 700;
+    border-bottom: 1px solid blue;
+}
+
+.mess_receive{
+    padding: 10px 3px 10px 3px;
+    border-bottom: 1px solid blue;
+}
+
+.mess_send .name{
+    margin-left: 15px;
+    font-size: larger;
+}
+
+.mess_receive .name{
+    margin-left: 15px;
+    font-size: larger;
+}
+
+b{
+    color: #077bff;
+}
+
+#send_content textarea{
+    margin: 10px 0 10px 0;
+}

@@ -1,0 +1,27 @@
+.information {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    min-height: 450px;
+}
+
+
+label{
+    color: rgb(96, 135, 252);
+}
+
+#data_table{
+    border: 1px solid rgb(96, 135, 252);
+    border-radius: 5%;
+}
+
+#data_table tr th{
+    background-color: rgb(96, 135, 252);
+    color: white;
+}
+
+#data_table tr:hover{
+    background-color: rgb(121, 27, 245);
+    color: white;
+}
